@@ -1,2 +1,2 @@
 console.log('users')
-console.log('runners')
+console.log('self-hosted runners')
